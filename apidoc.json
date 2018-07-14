@@ -1,0 +1,19 @@
+{
+    "name": "yasuoyuhao-RESTful-API",
+    "version": "1.0.0",
+    "description": "yasuoyuhao RESTful API project",
+    "title": "yasuoyuhao API",
+    "url": "https://example.com/api",
+    "header": {
+      "title": "",
+      "filename": "header.md"
+    },
+    "footer": {
+      "title": "",
+      "filename": "footer.md"
+    },
+    "template": {
+      "withCompare": true,
+      "withGenerator": true
+    }
+  }
